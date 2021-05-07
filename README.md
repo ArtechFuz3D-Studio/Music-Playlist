@@ -22,9 +22,6 @@ ________________________________________________________________________________
 _____________________________________________________________________________________________________________
 _____________________________________________________________________________________________________________
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T5ALPzS0QfQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-______________________________________________________________________________________________________________
-______________________________________________________________________________________________________________
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLoKPk9NTPsORDSLgxwmwJMv4WbgmQWAIa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
