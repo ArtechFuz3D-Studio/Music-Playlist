@@ -1,1 +1,9 @@
 theme: jekyll-theme-cayman
+
+title: Clickon Tutorials
+email: clickonrefresh@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Guides, Tutorials and Momentary Blips of Documentation.
+twitter_username: clickonrefresh
+github_username:  clickonrefresh
+linkedin_username: clickonrefresh
