@@ -1,5 +1,12 @@
 remote_theme: "mmistakes/minimal-mistakes@4.22.0"
 
+source "https://rubygems.org"
+
+gem "github-pages", group: :jekyll_plugins
+gem "jekyll-include-cache", group: :jekyll_plugins
+
+plugins: jekyll-include-cache
+
 title: Clickon Music
 email: clickonrefresh@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
