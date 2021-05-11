@@ -1,4 +1,5 @@
-theme: jekyll-theme-cayman
+#theme: jekyll-theme-cayman
+theme: minimal-mistakes-jekyll
 
 title: Clickon Music
 email: clickonrefresh@gmail.com
