@@ -23,3 +23,14 @@ ________________________________________________________________________________
 
 
 [Home](https://clickonrefresh.github.io/Music-Playlist)
+
+<!-- Carousel -->
+<div id="myCarousel" class="carousel slide" data-ride="carousel">
+
+<!-- Carousel Indicators -->
+<li data-target="#myCarousel" data-slide-to="1"></li>
+
+<!-- Carousel Controls -->
+<a class="carousel-control-prev" href="#myCarousel" data-slide="prev">
+  <span class="carousel-control-prev-icon"></span>
+</a>
